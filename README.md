@@ -1,9 +1,9 @@
 # JPS-ComfyUI-Workflows
 
-![iW91i8b](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/23ec4aa6-c23e-4e32-b458-a71c36e325f4)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/b000458e-9635-4ab4-97dd-4d0b0cac57f2)
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/3dd36f03-6450-4f02-906c-b32a2ce6cd5d)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/86572383-f3a9-42a5-8fce-8122de7a6133)
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/cc812acf-a480-4859-9222-161ebd1d915f)
+
 
 
