@@ -6,7 +6,7 @@
 
 
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8805e922-7a68-4974-8c9e-793714d79b1d)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/a9f0fe4d-b221-4b29-8079-5363ad93d1cd)
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8b023a36-17a8-4d9a-a91a-3fa38ffb133e)
 
