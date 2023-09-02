@@ -2,8 +2,6 @@
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/561e930c-152a-41af-9610-8d7f187169fa)
 
-![insect001](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8cebb2c1-a10a-4132-ac23-b88505193c59)
-
 ![insect005](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8c7396f7-93cc-46a5-9c19-e9e010fb000a)
 
 
