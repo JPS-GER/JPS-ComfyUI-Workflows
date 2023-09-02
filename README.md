@@ -7,13 +7,6 @@
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/822afa0d-9a95-40ff-8f78-71514f46ad1d)
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8b023a36-17a8-4d9a-a91a-3fa38ffb133e)
-
-
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/99d60e13-d150-4b04-af0f-27c0b80189fa)
-
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/19d867a4-6fb9-423b-915f-121a2484733c)
-
 
 
 
