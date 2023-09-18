@@ -1,14 +1,15 @@
 # JPS-ComfyUI-Workflows
 
+* Easy-to-use menu area that fits on a single screen (if your screen is big enough)
 * Generate images with 100% Base model and/or Base + Refiner (selectable percentage for base and refiner)
 * Generate upscaled versions (2x)
-* On/Off switch to turn on/off generated images or upscaled versions
+* On/Off switches for enabling/disabling generated images and/or upscaled versions
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
-* Use VAE included in your model or separate VAE
-* 4x Lora
-* 2x IP Adapter
-* 2x Revision
-* easy to use menu section, that fits on a single screen (if you screen is big enough)
+* Use the VAE included in your model or provide a separate VAE (switchable)
+* 4x Lora - use up to 4 Lora models,  menu area offers an on/off switch and all necessary parameters for fine tuning
+* 2x IP Adapter - use up to two input images, menu area offers an on/off switch and all necessary parameters for fine tuning
+* 2x Revision- use up to two input images, menu area offers an on/off switch and all necessary parameters for fine tuning
+
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/561e930c-152a-41af-9610-8d7f187169fa)
 
