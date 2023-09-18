@@ -3,10 +3,10 @@
 * Easy-to-use menu area that fits on a single screen (if your screen is big enough)
 * Generate images with 100% Base model and/or Base + Refiner (selectable percentage for base and refiner)
 * Generate upscaled versions (2x)
+* On/Off switches for enabling/disabling generated images and/or upscaled versions
 * Easy selection of resolutions recommended for SDXL
 * Switch between your own resolution and the resolution of the input image
 * Automatically adjust input images to the nearest recommended SDXL resolution
-* On/Off switches for enabling/disabling generated images and/or upscaled versions
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable)
 * 4x Lora - use up to 4 Lora models,  menu area offers an on/off switch and all necessary parameters for fine tuning
