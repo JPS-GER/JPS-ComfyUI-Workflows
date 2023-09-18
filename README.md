@@ -1,7 +1,7 @@
 # JPS-ComfyUI-Workflows
 
 * Easy-to-use menu area that fits on a single screen (if your screen is big enough)
-* Generate images with 100% Base model and/or Base + Refiner (selectable percentage for base and refiner)
+* Generate images with 100% Base model and/or Base + Refiner (selectable percentage for base and refiner, default: 80%)
 * Generate upscaled versions (2x)
 * On/Off switches for enabling/disabling generated images and/or upscaled versions
 * Easy selection of resolutions recommended for SDXL (aspect ratio between square and up to 21:9 / 9:21)
