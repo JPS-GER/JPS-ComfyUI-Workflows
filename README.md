@@ -1,5 +1,15 @@
 # JPS-ComfyUI-Workflows
 
+* Generate images with 100% Base model and/or Base + Refiner (choose where to split Base and Refiner)
+* Generate upscaled versions (2x)
+* On/Off switch to turn on/off generated images or upscaled versions
+* 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
+* Use VAE included in your model or separate VAE
+* 4x Lora
+* 2x IP Adapter
+* 2x Revision
+* easy to use menu section, that fits on a single screen (if you screen is big enough)
+
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/561e930c-152a-41af-9610-8d7f187169fa)
 
 ![insect005](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8c7396f7-93cc-46a5-9c19-e9e010fb000a)
