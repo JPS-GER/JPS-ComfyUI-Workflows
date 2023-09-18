@@ -1,6 +1,6 @@
 # JPS-ComfyUI-Workflows
 
-* Generate images with 100% Base model and/or Base + Refiner (choose where to split Base and Refiner)
+* Generate images with 100% Base model and/or Base + Refiner (selectable percentage for base and refiner)
 * Generate upscaled versions (2x)
 * On/Off switch to turn on/off generated images or upscaled versions
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
