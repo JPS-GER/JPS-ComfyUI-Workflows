@@ -7,7 +7,7 @@
 * Various options how to use "positive_g" and "positive_l" prompts. Among other options, separate use and automatic copying of the text prompt are possible if, for example, only one input has been filled in.
 * Easy selection of resolutions recommended for SDXL (aspect ratio between square and up to 21:9 / 9:21).
 * Switch between your own resolution and the resolution of the input image. If you use your own resolution, the input images will be cropped automatically if necessary.
-* Automatically adjust input images to the nearest recommended SDXL resolution.
+* Automatically crop input images to the nearest recommended SDXL resolution.
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable).
 * 4x Lora: Use up to 4 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
