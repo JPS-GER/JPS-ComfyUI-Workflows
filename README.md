@@ -1,5 +1,7 @@
 # JPS-ComfyUI-Workflows
 
+__Features__
+
 * Easy-to-use menu area that fits on a single screen (if your screen is big enough).
 * Generate images with 100% Base model and/or Base + Refiner (selectable percentage for base and refiner, default: 80%).
 * Generate upscaled versions (2x).
@@ -15,6 +17,12 @@
 * 2x Revision: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/2fef3cea-7ae4-403a-9705-f6ddbdf504c5)
+
+__Required Nodes__
+
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/f534ce85-f2df-4ef7-9eac-6c83fbb85edc)
+
+__SDXL Examples__
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/561e930c-152a-41af-9610-8d7f187169fa)
 
