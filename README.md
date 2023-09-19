@@ -22,7 +22,7 @@ __Menu Area__
 
 __Required Nodes__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/f534ce85-f2df-4ef7-9eac-6c83fbb85edc)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/6d3eedf7-9e07-4b33-89ae-e819204f2122)
 
 __SDXL Examples__
 
