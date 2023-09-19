@@ -16,6 +16,8 @@ __Features__
 * 2x IP Adapter: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 * 2x Revision: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 
+__Menu Area__
+
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/2fef3cea-7ae4-403a-9705-f6ddbdf504c5)
 
 __Required Nodes__
