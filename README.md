@@ -15,7 +15,7 @@ __Features__
 * 5x Lora: Use up to 5 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 * 2x IP Adapter: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 * 2x Revision: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
-* Prompt Styler: Select SAI presets and movie titles to improve your basic text prompts
+* Prompt Styler: Select SAI presets and movie titles to improve your basic text prompts.
 
 __Menu Area__
 
