@@ -12,11 +12,12 @@ __Features__
 * Automatically crop input images to the nearest recommended SDXL resolution.
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable).
-* 5x Lora: Use up to 5 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
+* 4x Lora: Use up to 5 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 * 2x IP Adapter: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 * 2x Revision: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 * Prompt Styler: Select SAI presets, artists and movie titles to improve your basic text prompts (artist and movie list are beta and will improve).
 * FreeU settings
+* Optional image caption for previewed and/or saved images ("combined positive prompt")
 
 __Menu Area__
 
