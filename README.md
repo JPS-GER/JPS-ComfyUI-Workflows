@@ -13,7 +13,7 @@ __Features__
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable).
 * 4x Lora: Use up to 5 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
-* 2x IP Adapter: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
+* 5x IP Adapter: Use up to five input images - the menu area offers a general and separate on/off switch and all necessary parameters for fine tuning. Including two merging mode (batch and chain).
 * 2x Revision: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
 * Prompt Styler: Select SAI presets, artists and movie titles to improve your basic text prompts (artist and movie list are beta and will improve).
 * FreeU settings
@@ -21,7 +21,7 @@ __Features__
 
 __Menu Area__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/356e5c3e-b179-45a9-8f0e-87aae8ae88d1)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/41414eb2-16a4-49aa-ad62-9e8e913f7f28)
 
 __Required Nodes__
 
