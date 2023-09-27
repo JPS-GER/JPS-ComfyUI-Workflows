@@ -35,8 +35,6 @@ __SDXL Examples__
 
 ![Ofq2frU](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/3bd5995c-ec26-4b24-8477-f801b80b8542)
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/561e930c-152a-41af-9610-8d7f187169fa)
-
 ![CVen8Tt](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/1bfe3ea2-c85d-4c11-a709-9965b8e22882)
 
 ![insect005](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8c7396f7-93cc-46a5-9c19-e9e010fb000a)
