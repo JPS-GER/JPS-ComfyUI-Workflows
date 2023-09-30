@@ -21,7 +21,7 @@ __Features__
 
 __Menu Area__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/d69632c0-6c5e-4d4c-86d7-fdca14378840)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/bef92d50-7e80-416f-9f69-381870b8a0de)
 
 __Required Nodes__
 
