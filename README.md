@@ -3,18 +3,17 @@
 __Features__
 
 * Easy-to-use menu area that fits on a single screen (if your screen is big enough).
-* Generate images with 100% Base model and/or Base + Refiner (selectable percentage for base and refiner, default: 80%).
-* Generate upscaled versions (2x).
-* On/Off switches for enabling/disabling generated images and/or upscaled versions.
+* Selectable percentage for base and refiner (recommended settings: 70-100%).
+* Optional Upscaler (2x) with easy On/Off switch.
 * Various options how to use "positive_g" and "positive_l" prompts. Among other options, separate use and automatic copying of the text prompt are possible if, for example, only one input has been filled in.
 * Easy selection of resolutions recommended for SDXL (aspect ratio between square and up to 21:9 / 9:21).
 * Switch between your own resolution and the resolution of the input image. If you use your own resolution, the input images will be cropped automatically if necessary.
 * Automatically crop input images to the nearest recommended SDXL resolution.
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable).
-* 4x Lora: Use up to 5 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
-* 5x IP Adapter: Use up to five input images - the menu area offers a general and separate on/off switch and all necessary parameters for fine tuning. Including two merging mode (batch and chain).
-* 2x Revision: Use up to two input images - the menu area offers an on/off switch and all necessary parameters for fine tuning.
+* 4x Lora: Use up to 4 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
+* 5x IP Adapter: Use up to five input images - the menu area offers separate on/off switches and all necessary parameters for fine tuning. Including two merging mode (batch and chain).
+* 2x Revision: Use up to two input images - the menu area offers on/off switches and all necessary parameters for fine tuning.
 * Prompt Styler: Select SAI presets, artists and movie titles to improve your basic text prompts (artist and movie list are beta and will improve).
 * FreeU settings
 * Optional image caption for previewed and/or saved images ("combined positive prompt")
