@@ -220,7 +220,7 @@
         "pinned": true
       },
       "order": 263,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "conditioning",
@@ -263,7 +263,7 @@
         "pinned": true
       },
       "order": 271,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "conditioning",
@@ -305,7 +305,7 @@
         "pinned": true
       },
       "order": 270,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "conditioning",
@@ -1283,7 +1283,7 @@
         "pinned": true
       },
       "order": 264,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "conditioning",
@@ -1326,7 +1326,7 @@
         "pinned": true
       },
       "order": 298,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "conditioning",
@@ -1467,7 +1467,7 @@
         "pinned": true
       },
       "order": 220,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -1517,7 +1517,7 @@
         "pinned": true
       },
       "order": 219,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -1706,7 +1706,7 @@
         "pinned": true
       },
       "order": 190,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "clip_vision",
@@ -4110,7 +4110,7 @@
         "pinned": true
       },
       "order": 188,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "clip_vision",
@@ -4828,7 +4828,7 @@
         "pinned": true
       },
       "order": 319,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ipadapter",
@@ -4904,7 +4904,7 @@
         "pinned": true
       },
       "order": 311,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ipadapter",
@@ -4980,7 +4980,7 @@
         "pinned": true
       },
       "order": 305,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ipadapter",
@@ -5056,7 +5056,7 @@
         "pinned": true
       },
       "order": 315,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model_1",
@@ -5130,7 +5130,7 @@
         "pinned": true
       },
       "order": 308,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model_1",
@@ -5204,7 +5204,7 @@
         "pinned": true
       },
       "order": 297,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ipadapter",
@@ -5280,7 +5280,7 @@
         "pinned": true
       },
       "order": 301,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model_1",
@@ -5354,7 +5354,7 @@
         "pinned": true
       },
       "order": 165,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -5436,7 +5436,7 @@
         "pinned": true
       },
       "order": 164,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -5518,7 +5518,7 @@
         "pinned": true
       },
       "order": 163,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -5885,7 +5885,7 @@
         "pinned": true
       },
       "order": 139,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ip_adapter_settings",
@@ -6221,7 +6221,7 @@
         "pinned": true
       },
       "order": 288,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "conditioning",
@@ -6291,7 +6291,7 @@
         "pinned": true
       },
       "order": 294,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -6365,7 +6365,7 @@
         "pinned": true
       },
       "order": 279,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -6438,7 +6438,7 @@
         "pinned": true
       },
       "order": 273,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -6511,7 +6511,7 @@
         "pinned": true
       },
       "order": 280,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -6584,7 +6584,7 @@
         "pinned": true
       },
       "order": 274,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -6657,7 +6657,7 @@
         "pinned": true
       },
       "order": 162,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -6854,7 +6854,7 @@
         "pinned": true
       },
       "order": 140,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "revision_settings",
@@ -7039,7 +7039,7 @@
         "pinned": true
       },
       "order": 167,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -7120,7 +7120,7 @@
         "pinned": true
       },
       "order": 168,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -7562,7 +7562,7 @@
         "pinned": true
       },
       "order": 170,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -7675,7 +7675,7 @@
         "pinned": true
       },
       "order": 5,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IMAGE",
@@ -9239,7 +9239,7 @@
         "pinned": true
       },
       "order": 166,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -9321,7 +9321,7 @@
         "pinned": true
       },
       "order": 293,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model_1",
@@ -9395,7 +9395,7 @@
         "pinned": true
       },
       "order": 286,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ipadapter",
@@ -9471,7 +9471,7 @@
         "pinned": true
       },
       "order": 323,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model_1",
@@ -9544,7 +9544,7 @@
         "pinned": true
       },
       "order": 327,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model_1",
@@ -9617,7 +9617,7 @@
         "pinned": true
       },
       "order": 197,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "img_1",
@@ -9691,7 +9691,7 @@
         "pinned": true
       },
       "order": 226,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "img_1",
@@ -9765,7 +9765,7 @@
         "pinned": true
       },
       "order": 258,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "img_1",
@@ -9839,7 +9839,7 @@
         "pinned": true
       },
       "order": 277,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "img_1",
@@ -9912,7 +9912,7 @@
         "pinned": true
       },
       "order": 268,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image1",
@@ -9958,7 +9958,7 @@
         "pinned": true
       },
       "order": 243,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image1",
@@ -10004,7 +10004,7 @@
         "pinned": true
       },
       "order": 211,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image1",
@@ -10051,7 +10051,7 @@
         "collapsed": false
       },
       "order": 182,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image1",
@@ -10097,7 +10097,7 @@
         "pinned": true
       },
       "order": 285,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ipadapter",
@@ -10449,7 +10449,7 @@
         "pinned": true
       },
       "order": 7,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IMAGE",
@@ -10496,7 +10496,7 @@
         "pinned": true
       },
       "order": 8,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IMAGE",
@@ -10543,7 +10543,7 @@
         "pinned": true
       },
       "order": 9,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IMAGE",
@@ -10845,7 +10845,7 @@
         "pinned": true
       },
       "order": 306,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "Revision Mode #2",
@@ -11501,7 +11501,7 @@
         "pinned": true
       },
       "order": 302,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -11574,7 +11574,7 @@
         "pinned": true
       },
       "order": 289,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -11970,7 +11970,7 @@
         "pinned": true
       },
       "order": 281,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -12043,7 +12043,7 @@
         "pinned": true
       },
       "order": 282,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "con_1",
@@ -12769,7 +12769,7 @@
         "pinned": true
       },
       "order": 10,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IMAGE",
@@ -12816,7 +12816,7 @@
         "pinned": true
       },
       "order": 11,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IMAGE",
@@ -16149,7 +16149,7 @@
         "pinned": true
       },
       "order": 159,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ctrlnet_1",
@@ -16222,7 +16222,7 @@
         "pinned": true
       },
       "order": 13,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "CLIP_VISION",
@@ -16261,7 +16261,7 @@
         "pinned": true
       },
       "order": 14,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IPADAPTER",
@@ -16735,7 +16735,7 @@
         "pinned": true
       },
       "order": 240,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "pixels",
@@ -17507,7 +17507,7 @@
         "pinned": true
       },
       "order": 17,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "MODEL",
@@ -17584,7 +17584,7 @@
         "pinned": true
       },
       "order": 144,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -18098,7 +18098,7 @@
         "pinned": true
       },
       "order": 191,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -18272,7 +18272,7 @@
         "pinned": true
       },
       "order": 21,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "CLIP_VISION",
@@ -18311,7 +18311,7 @@
         "pinned": true
       },
       "order": 22,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "CONTROL_NET",
@@ -18350,7 +18350,7 @@
         "pinned": true
       },
       "order": 23,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "CONTROL_NET",
@@ -22957,7 +22957,7 @@
         "pinned": true
       },
       "order": 204,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "Lora 1",
@@ -26934,7 +26934,7 @@
         "pinned": true
       },
       "order": 256,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "VAE Encode (for Inpainting)",
@@ -27039,7 +27039,7 @@
         "pinned": true
       },
       "order": 317,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "positive",
@@ -27140,7 +27140,7 @@
         "pinned": true
       },
       "order": 236,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "img_1",
@@ -27221,7 +27221,7 @@
         "pinned": true
       },
       "order": 321,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "ControlNet",
@@ -27434,7 +27434,7 @@
         "pinned": true
       },
       "order": 331,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "IP-A #1",
@@ -27821,7 +27821,7 @@
         "pinned": true
       },
       "order": 27,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "IMAGE",
@@ -27915,7 +27915,7 @@
         "pinned": true
       },
       "order": 123,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -28980,7 +28980,7 @@
         "pinned": true
       },
       "order": 346,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "Mute / Bypass Relay (rgthree)",
@@ -29189,7 +29189,7 @@
         "pinned": true
       },
       "order": 324,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "Mute / Bypass Relay (rgthree)",
@@ -29378,7 +29378,7 @@
         "pinned": true
       },
       "order": 341,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "Mute / Bypass Relay (rgthree)",
@@ -29553,7 +29553,7 @@
         "pinned": true
       },
       "order": 296,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "Mute / Bypass Relay (rgthree)",
@@ -29712,7 +29712,7 @@
         "pinned": true
       },
       "order": 29,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "ip_adapter_settings",
@@ -29779,7 +29779,7 @@
         "pinned": true
       },
       "order": 30,
-      "mode": 0,
+      "mode": 2,
       "outputs": [
         {
           "name": "revision_settings",
@@ -29822,10 +29822,10 @@
         -4730,
         20
       ],
-      "size": [
-        831.2510986328125,
-        2061.4389038085938
-      ],
+      "size": {
+        "0": 831.2510986328125,
+        "1": 2061.43896484375
+      },
       "flags": {
         "pinned": true
       },
