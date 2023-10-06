@@ -3,6 +3,7 @@
 __Features__
 
 * Easy-to-use menu area that fits on a single screen (if your screen is big enough).
+* Turn on/off all major features to increase performance and reduce hardware requirements.
 * Selectable percentage for base and refiner (recommended settings: 70-100%).
 * Optional Upscaler (2x) with easy On/Off switch.
 * Various options how to use "positive_g" and "positive_l" prompts. Among other options, separate use and automatic copying of the text prompt are possible if, for example, only one input has been filled in.
@@ -20,7 +21,7 @@ __Features__
 
 __Menu Area__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/36fa5f70-bd4f-4e5a-bbc6-a1ebc44f26a4)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/efd8fb5c-f997-4cc6-882b-7cf9ee5ca686)
 
 __Required Nodes__
 
