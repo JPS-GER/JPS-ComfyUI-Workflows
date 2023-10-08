@@ -23,7 +23,7 @@ __Features__
 
 __Menu Area (full screen)__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/ee8983e2-42fd-4a47-8db7-b0cfe98e6595)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/d9f3cef9-19fc-49eb-b0b8-573532a14df9)
 
 __Menu Area (zoomed in)__
 
