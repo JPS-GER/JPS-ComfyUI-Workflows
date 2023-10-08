@@ -30,6 +30,10 @@ __Required Nodes__
 
 __SDXL Examples__
 
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/f7f23961-276d-4eda-9234-8739a1940f8e)
+
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/b76f6986-0cd1-4e3c-8ceb-22fde4c911d9)
+
 ![k0x7F2R](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/dd03edf2-fd1b-4d67-857b-ccf4f42224d9)
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/73794d6f-29bf-4a09-a1dd-a8dda117e936)
