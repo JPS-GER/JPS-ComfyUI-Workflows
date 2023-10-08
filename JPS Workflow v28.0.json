@@ -30525,7 +30525,7 @@
         "Node name for S&R": "Generation Settings (JPS)"
       },
       "widgets_values": [
-        "CtrlNet Canny",
+        "Text Prompt",
         "Use Settings Resolution",
         30,
         100,
