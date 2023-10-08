@@ -10,9 +10,10 @@ __Features__
 * Easy selection of resolutions recommended for SDXL (aspect ratio between square and up to 21:9 / 9:21).
 * Switch between your own resolution and the resolution of the input image. If you use your own resolution, the input images will be cropped automatically if necessary.
 * Automatically crop input images to the nearest recommended SDXL resolution.
+* Choose between center, top, bottom, left and right for all cropping operations and fine tune with offset values.
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable).
-* 4x Lora: Use up to 4 Lora models - the menu area offers an on/off switch and all necessary parameters for fine tuning.
+* 4x Lora: Use up to 4 Lora models - the menu area offers a global and separate on/off switches and all necessary parameters for fine tuning.
 * 5x IP Adapter: Use up to five input images - the menu area offers separate on/off switches and all necessary parameters for fine tuning.
 * Use individual weight and noise settings for each IP Adapter source image, instead of the common batch processing with only one global setting.
 * 2x Revision: Use up to two input images - the menu area offers on/off switches and all necessary parameters for fine tuning.
