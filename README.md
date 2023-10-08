@@ -13,7 +13,7 @@ __Features__
 * Choose between center, top, bottom, left and right for all cropping operations and fine tune with offset values.
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable).
-* 4x Lora: Use up to 4 Lora models - the menu area offers a global and separate on/off switches and all necessary parameters for fine tuning.
+* 5x Lora: Use up to 4 Lora models - the menu area offers a global and separate on/off switches and all necessary parameters for fine tuning.
 * 5x IP Adapter: Use up to five input images - the menu area offers separate on/off switches and all necessary parameters for fine tuning.
 * Use individual weight and noise settings for each IP Adapter source image, instead of the common batch processing with only one global setting.
 * 2x Revision: Use up to two input images - the menu area offers on/off switches and all necessary parameters for fine tuning.
@@ -21,9 +21,13 @@ __Features__
 * FreeU settings
 * Optional image caption for previewed and/or saved images ("combined positive prompt")
 
-__Menu Area__
+__Menu Area (full screen)__
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/ee8983e2-42fd-4a47-8db7-b0cfe98e6595)
+
+__Menu Area (zoomed in)__
+
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/deb94f63-d09f-4d6a-aa5e-7c39a90990bc)
 
 __Required Nodes__
 
