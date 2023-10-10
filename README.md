@@ -28,7 +28,6 @@ __Menu Area (full screen)__
 __Menu Area (zoomed in)__
 
 ![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/1c92ec51-7ac4-4e64-a2e5-5448ad0bd579)
-
 (the layout still allows access to the most important features)
 
 __Required Nodes__
