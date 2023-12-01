@@ -14,20 +14,21 @@ __Features__
 * 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
 * Use the VAE included in your model or provide a separate VAE (switchable).
 * 5x Lora: Use up to 5 Lora models - the menu area offers a global and separate on/off switches and all necessary parameters for fine tuning.
-* 5x IP Adapter: Use up to five input images - the menu area offers separate on/off switches and all necessary parameters for fine tuning.
+* 4x IP Adapter: Use up to four input images - the menu area offers separate on/off switches and all necessary parameters for fine tuning.
+* Use masks, start and end values for IP Adapters.
 * Use individual weight and noise settings for each IP Adapter source image, instead of the common batch processing with only one global setting.
 * 2x Revision: Use up to two input images - the menu area offers on/off switches and all necessary parameters for fine tuning.
 * Prompt Styler: Select SAI presets, artists and movie titles to improve your basic text prompts (artist and movie list are beta and will improve).
-* FreeU settings
+* FreeU_v2 settings
 * Optional image caption for previewed and/or saved images ("combined positive prompt")
 
 __Menu Area (full screen)__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/58d44e5e-4916-4b42-8c67-5726dc21a33b)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8bd28bef-039a-43ed-b29e-42d6f81fb540)
 
 __Menu Area (zoomed in)__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/a67f894b-8104-49d0-a1f4-801df77030c1)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/c7032fea-a461-418b-a258-ed5bb0fde96d)
 (the layout still allows access to the most important features)
 
 __Required Nodes__
