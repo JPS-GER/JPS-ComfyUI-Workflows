@@ -10009,7 +10009,7 @@
       },
       "widgets_values": [
         "c:\\windows\\fonts\\arial.ttf",
-        808469670675676,
+        1096131252809052,
         "randomize"
       ],
       "color": "#323",
@@ -29023,7 +29023,7 @@
       },
       "widgets_values": [
         "disable",
-        1103418297414756,
+        720277799854175,
         "randomize",
         100,
         8,
@@ -29301,7 +29301,7 @@
       },
       "widgets_values": [
         "enable",
-        1037396958675079,
+        687517396722633,
         "randomize",
         100,
         8,
@@ -30665,10 +30665,10 @@
         860,
         170
       ],
-      "size": [
-        420,
-        70
-      ],
+      "size": {
+        "0": 420,
+        "1": 70
+      },
       "flags": {
         "pinned": true
       },
@@ -30915,7 +30915,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "\"text, watermark, low-quality, signature, moir\\u00e9 pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast\""
+        "\"text, watermark, low-quality, signature, moire pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast\""
       ],
       "shape": 1
     },
@@ -31689,10 +31689,10 @@
         "8": 0,
         "9": 0
       },
-      "size": [
-        420,
-        540
-      ],
+      "size": {
+        "0": 420,
+        "1": 538
+      },
       "flags": {
         "pinned": true,
         "collapsed": false
@@ -31935,10 +31935,10 @@
         860,
         280
       ],
-      "size": [
-        420,
-        70
-      ],
+      "size": {
+        "0": 420,
+        "1": 70
+      },
       "flags": {
         "pinned": true
       },
@@ -31974,10 +31974,10 @@
         860,
         390
       ],
-      "size": [
-        420,
-        200
-      ],
+      "size": {
+        "0": 420,
+        "1": 200
+      },
       "flags": {
         "pinned": true
       },
@@ -32010,7 +32010,7 @@
       },
       "widgets_values": [
         "portrait photo of a woman on a space station",
-        1067008105707694,
+        977687280540833,
         "randomize"
       ],
       "color": "#232",
@@ -32024,10 +32024,10 @@
         860,
         630
       ],
-      "size": [
-        420,
-        180
-      ],
+      "size": {
+        "0": 420,
+        "1": 180
+      },
       "flags": {
         "pinned": true
       },
@@ -32060,7 +32060,7 @@
       },
       "widgets_values": [
         "",
-        268404470831666,
+        602118550966119,
         "randomize"
       ],
       "color": "#232",
@@ -32074,10 +32074,10 @@
         860,
         850
       ],
-      "size": [
-        420,
-        180
-      ],
+      "size": {
+        "0": 420,
+        "1": 180
+      },
       "flags": {
         "pinned": true
       },
@@ -32110,7 +32110,7 @@
       },
       "widgets_values": [
         "",
-        726750935198004,
+        64238529904748,
         "randomize"
       ],
       "color": "#322",
@@ -32124,15 +32124,15 @@
         3390,
         150
       ],
-      "size": [
-        340,
-        130
-      ],
+      "size": {
+        "0": 340,
+        "1": 130
+      },
       "flags": {
         "pinned": true
       },
       "order": 263,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -32172,10 +32172,10 @@
         3390,
         30
       ],
-      "size": [
-        340,
-        80
-      ],
+      "size": {
+        "0": 340,
+        "1": 80
+      },
       "flags": {
         "pinned": true
       },
@@ -32241,10 +32241,10 @@
         1640,
         1230
       ],
-      "size": [
-        340,
-        80
-      ],
+      "size": {
+        "0": 340,
+        "1": 80
+      },
       "flags": {
         "pinned": true
       },
@@ -32279,10 +32279,10 @@
         1640,
         1350
       ],
-      "size": [
-        340,
-        80
-      ],
+      "size": {
+        "0": 340,
+        "1": 80
+      },
       "flags": {
         "pinned": true
       },
@@ -32317,10 +32317,10 @@
         430,
         950
       ],
-      "size": [
-        420,
-        130
-      ],
+      "size": {
+        "0": 420,
+        "1": 130
+      },
       "flags": {
         "pinned": true
       },
@@ -32346,7 +32346,7 @@
         "Node name for S&R": "Seed (rgthree)"
       },
       "widgets_values": [
-        801974131942459,
+        -1,
         null,
         null,
         null
@@ -32362,10 +32362,10 @@
         430,
         1120
       ],
-      "size": [
-        420,
-        190
-      ],
+      "size": {
+        "0": 420,
+        "1": 190
+      },
       "flags": {
         "pinned": true
       },
@@ -32479,7 +32479,7 @@
         "text": ""
       },
       "widgets_values": [
-        "====================\n JPS Workflow v30.0\n====================\n\n\nImportant\n=========\n\nIt's highly recommended to change the \"Link Render Mode\" in ComfyUI to \"Hidden\" for a better user experience without annoying wires. That makes the menu area much more pleasant to look at.\n\nDon't forget that you can zoom your workflow with your mouse wheel and also drag the workflow anywhere (not just on empty spaces) by holding the middle mouse button (in many cases the mouse wheel). Dragging the workflow that way is crucial, if you want to use the menu area on smaller screens.\n\nYou will need to change some nodes (models, images) to your own file names when using this workflow for the first time.\n\n\nTurn off Features\n=================\n\nIt's recommended to use the toggles in the \"Turn off functions\" node to disable functions you don't intend to use at the moment. \n\nBy doing this, you will save resources and avoid wasting time on parts of the workflow that aren't needed. The way ComfyUI works at the moment, every part of the workflow will be executed at least once, and in many cases every time, even if the current settings do not require that part of the workflow. The toggles under \"Turn off functions\" actually mute the nodes to prevent this.\n\nIf you want to fine-tune offset values (for source images), you can turn off \"Standard Image (1x)\" to quickly test many different offset values without waiting for the workflow to finish a full image generation.\n\nI'd recommend turning off \"Upscaled Image (2x)\" and only turning it on when you like a standard resolution result. Just use the \"Recycle Seed\" button to recreate the same image again after turning it on.\n\n\n5 Generation Modes (blue nodes)\n===============================\n\n- TXT2IMG\n- IMG2IMG\n- Canny Control Net\n- Depth Control Net\n- Inpainting\n\nStrength and Ctrl-Options are not used by TXT2IMG.\n\nCtrl-Options are not used by IMG2IMG and Inpainting.\n\nOnly the applicable strength setting will be used. Separate strength values are provided for convenience when switching between modes, since different modes require very different values, which would result in more frequent changes if a general strength value was used.\n\nFor best results, input images are resized to fit the output image or mode. If cropping is required, you can specify which part of the image you want to keep (center, top, bottom, left, right). The offset values allow you to fine-tune the cropping area. Use the preview images to verify your offset values.\n\n\nInpainting (see Generation Modes):\n==================================\n\nTo use inpainting, select \"Open Mask Editor\" from the context menu of \"Generation Source Image\". High \"strength_percent\" values (default = 100) are best for good inpainting results.\n\n\nRevision (brown nodes)\n======================\n\nUse images instead of or in addition to text prompts. You can merge images if you use more than one source image. Disabling text prompts may give you the best results - use the \"ConditioningZeroOut\" toggles to do this, as this is a cleaner and more complete method than removing the text prompts manually.\n\nSource images may be used in any number and order. If you don't want to use the feature, just turn off all revision source images. Detailed options are only active when the corresponding revision toggle is enabled - there is no need to manually reset each value to the default values when you disable a specific source image.\n\nThe source images are cropped to a square aspect ratio as required by the Clip Vision model - this would be done internally anyway, but preparing the images allows you to influence the process and choose witch part of the images to crop (center, top, bottom, left, right). The offset value allows you to fine-tune the cropping area.\n\nIn addition, all source images are resized to the same size. You can choose between 224x224 (the resolution used internally by Clip Vision) or a higher resolution, and apply different interpolation methods. Different settings can change the results - find the optimal values for the style and content you want to create.\n\nIf you are not satisfied with the results, try using IP Adapter instead or in addition to Revision. Both solutions are based on Clip Vision, but work in very different ways.\n\n\nIP Adapter (yellow nodes)\n=========================\n\nUse images instead of or in addition to text prompts. You can merge images if you use more than one source image. Disabling text prompts may give you interesting results - try to use the \"ConditioningZeroOut\" toggles to do this, as this is a cleaner and more complete method than removing the text prompts manually.\n\nSource images may be used in any number and order. If you don't want to use the feature, just turn off all revision source images. Detailed options are only active when the corresponding revision toggle is enabled - there is no need to manually reset each value to the default values when you disable a specific source image.\n\nIf you use more than one source image, they are processed in a chain - only this approach allows you to use different weights and noise values per source image, providing much more freedom of use than the batch processing advertised by the node's author. \n\nFrom my experience and testing, the overall quality is the same - in fact, in many cases I've gotten quite similar results when comparing the two approaches, as long as I've worked with appropriately adjusted weights. Please note that with this processing method the weight values are added up, which means while adding more source images you should also reduce the individual weights at the same time, so that the total sum is equal to the desired value again.\n\nThe source images will be cropped to a square aspect ratio as required by the Clip Vision model - this would be done internally anyway, but preparing the images allows you to influence the process and choose which part of the images to crop (center, top, bottom, left, right). The offset value allows you to fine-tune the area of cropping.\n\nIn addition, all source images are resized to the same size. You can choose between 224x224 (the resolution used internally by Clip Vision) or a higher resolution, and select different interpolation methods for resizing. Different settings can change the results - find the optimal values for the style and content you want to create.\n\nFor best results, keep the output size close to a square aspect ratio. \"Extreme ratios\" such as 16:9 or 21:9 do not work well and may require several attempts. You can try to combine IP Adapter with ControlNet to get better results for those ratios.\n\nYou may use the mask feature to control what part of the image is affected by that IP Adapter. Select \"Open Mask Editor\" from the context menu to create the mask. Try to use two IP Adapters for different sections (e.g. left/right or top/bottom) to get interesting results. You can use \"Copy (Clipspace)\" and \"Paste (Clipspace)\" to copy a previous result to the mask node for easier adjustment of the masks. The image in the mask node will be ignored - only the mask is used.\n\n\nPrompt Styler (work in progress)\n================================\n\nSelect an artist, movie, or general style, and the text prompt will be expanded with appropriate keywords and phrases to produce images in that style.\n\nYou can also enable a \"general negative prompt\" which should have little to no effect on the style of the output image and will be suitable for many different images.\n\n\nResolution from settings or input image\n=======================================\n\nYou can switch between using your own resolution/aspect ratio and using the aspect ratio of the input image. \n\nWhen you use the aspect ratio of the input image, the size is always adjusted to the closest recommended SDXL resolution.\n\n\nRefiner\n=======\n\nIf you don't want to use the refiner, just set \"base_percentage\" to 100.\n\n\nClip Skip\n=========\n\nThe default value for Clip Skip is \"-2\". This will give you the same result as if you bypassed the Clip Skip node, while using the value \"-1\" will give you a different result.\n\n\nRequired nodes, models and other files\n======================================\n\nAll required nodes are available through ComfyUI Manager:\n\n* Mikey Nodes (for save and prompt)\n* rgthree's ComfyUi Nodes (for output switch and better seed control)\n* ComfyUI_IPAdapter_plus (for IP-Adapter)\n* ComfyUI's ControlNet Auxiliary Preprocessors (for Revision)\n* JPS Custom Nodes for ComfyUI\n\nSDXL Base Model:\nhttps://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/sd_xl_base_1.0_0.9vae.safetensors\n\nSDXL Refiner:\nhttps://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/blob/main/sd_xl_refiner_1.0_0.9vae.safetensors\n\nSDXL Separate VAE:\nhttps://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors\n\nUpscale Model: \nhttps://openmodeldb.info/models/4x-NMKD-Superscale\n\nClip Vision Models (required by Revision and IP-Adapter) - copy to ComfyUI\\models\\clip_vision:\nhttps://huggingface.co/comfyanonymous/clip_vision_g/blob/main/clip_vision_g.safetensors (for Revision)\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors (for SDXL models)\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors (for vit-h SDXL models)\n\nIP-Adapter Models - copy to ComfyUI\\custom_nodes\\ComfyUI_IPAdapter_plus\\models:\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl.bin\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl_vit-h.bin\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.bin\n\nInpainting:\nhttps://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1/blob/main/unet/diffusion_pytorch_model.fp16.safetensors\n\nControl Net:\nhttps://huggingface.co/diffusers/controlnet-zoe-depth-sdxl-1.0/blob/main/diffusion_pytorch_model.safetensors\nhttps://huggingface.co/diffusers/controlnet-canny-sdxl-1.0/blob/main/diffusion_pytorch_model.fp16.safetensors\n"
+        "====================\n JPS Workflow v30.0\n====================\n\n\nImportant\n=========\n\nIt's highly recommended to change the \"Link Render Mode\" in ComfyUI to \"Hidden\" for a better user experience without annoying wires. That makes the menu area much more pleasant to look at.\n\nDon't forget that you can zoom your workflow with your mouse wheel and also drag the workflow anywhere (not just on empty spaces) by holding the middle mouse button (in many cases the mouse wheel). Dragging the workflow that way is crucial, if you want to use the menu area on smaller screens.\n\nYou will need to change some nodes (models, images) to your own file names when using this workflow for the first time.\n\n\nTurn off Features\n=================\n\nIt's recommended to use the toggles in the \"Turn off functions\" node to disable functions you don't intend to use at the moment. \n\nBy doing this, you will save resources and avoid wasting time on parts of the workflow that aren't needed. The way ComfyUI works at the moment, every part of the workflow will be executed at least once, and in many cases every time, even if the current settings do not require that part of the workflow. The toggles under \"Turn off functions\" actually mute the nodes to prevent this.\n\nIf you want to fine-tune offset values (for source images), you can turn off \"Standard Image (1x)\" to quickly test many different offset values without waiting for the workflow to finish a full image generation.\n\nI'd recommend turning off \"Upscaled Image (2x)\" and only turning it on when you like a standard resolution result. Just use the \"Recycle Seed\" button to recreate the same image again after turning it on.\n\n\n5 Generation Modes (blue nodes)\n===============================\n\n- TXT2IMG\n- IMG2IMG\n- Canny Control Net\n- Depth Control Net\n- Inpainting\n\nStrength and Ctrl-Options are not used by TXT2IMG.\n\nCtrl-Options are not used by IMG2IMG and Inpainting.\n\nOnly the applicable strength setting will be used. Separate strength values are provided for convenience when switching between modes, since different modes require very different values, which would result in more frequent changes if a general strength value was used.\n\nFor best results, input images are resized to fit the output image or mode. If cropping is required, you can specify which part of the image you want to keep (center, top, bottom, left, right). The offset values allow you to fine-tune the cropping area. Use the preview images to verify your offset values.\n\n\nInpainting (see Generation Modes):\n==================================\n\nTo use inpainting, select \"Open Mask Editor\" from the context menu of \"Generation Source Image\". High \"strength_percent\" values (default = 100) are best for good inpainting results.\n\n\nRevision (brown nodes)\n======================\n\nUse images instead of or in addition to text prompts. You can merge images if you use more than one source image. Disabling text prompts may give you the best results - use the \"ConditioningZeroOut\" toggles to do this, as this is a cleaner and more complete method than removing the text prompts manually.\n\nSource images may be used in any number and order. If you don't want to use the feature, just turn off all revision source images. Detailed options are only active when the corresponding revision toggle is enabled - there is no need to manually reset each value to the default values when you disable a specific source image.\n\nThe source images are cropped to a square aspect ratio as required by the Clip Vision model - this would be done internally anyway, but preparing the images allows you to influence the process and choose witch part of the images to crop (center, top, bottom, left, right). The offset value allows you to fine-tune the cropping area.\n\nIn addition, all source images are resized to the same size. You can choose between 224x224 (the resolution used internally by Clip Vision) or a higher resolution, and apply different interpolation methods. Different settings can change the results - find the optimal values for the style and content you want to create.\n\nIf you are not satisfied with the results, try using IP Adapter instead or in addition to Revision. Both solutions are based on Clip Vision, but work in very different ways.\n\n\nIP Adapter (yellow nodes)\n=========================\n\nUse images instead of or in addition to text prompts. You can merge images if you use more than one source image. Disabling text prompts may give you interesting results - try to use the \"ConditioningZeroOut\" toggles to do this, as this is a cleaner and more complete method than removing the text prompts manually.\n\nSource images may be used in any number and order. If you don't want to use the feature, just turn off all revision source images. Detailed options are only active when the corresponding revision toggle is enabled - there is no need to manually reset each value to the default values when you disable a specific source image.\n\nIf you use more than one source image, they are processed in a chain - only this approach allows you to use different weights and noise values per source image, providing much more freedom of use than the batch processing advertised by the node's author. \n\nFrom my experience and testing, the overall quality is the same - in fact, in many cases I've gotten quite similar results when comparing the two approaches, as long as I've worked with appropriately adjusted weights. Please note that with this processing method the weight values are added up, which means while adding more source images you should also reduce the individual weights at the same time, so that the total sum is equal to the desired value again.\n\nThe source images will be cropped to a square aspect ratio as required by the Clip Vision model - this would be done internally anyway, but preparing the images allows you to influence the process and choose which part of the images to crop (center, top, bottom, left, right). The offset value allows you to fine-tune the area of cropping.\n\nIn addition, all source images are resized to the same size. You can choose between 224x224 (the resolution used internally by Clip Vision) or a higher resolution, and select different interpolation methods for resizing. Different settings can change the results - find the optimal values for the style and content you want to create.\n\nFor best results, keep the output size close to a square aspect ratio. \"Extreme ratios\" such as 16:9 or 21:9 do not work well and may require several attempts. You can try to combine IP Adapter with ControlNet to get better results for those ratios.\n\nYou may use the mask feature to control what part of the image is affected by that IP Adapter. Select \"Open Mask Editor\" from the context menu to create the mask. Try to use two IP Adapters for different sections (e.g. left/right or top/bottom) to get interesting results. You can use \"Copy (Clipspace)\" and \"Paste (Clipspace)\" to copy a previous result to the mask node for easier adjustment of the masks. The image in the mask node will be ignored - only the mask is used.\n\n\nPrompt Styler (work in progress)\n================================\n\nSelect an artist, movie, or general style, and the text prompt will be expanded with appropriate keywords and phrases to produce images in that style.\n\nYou can also enable a \"general negative prompt\" which should have little to no effect on the style of the output image and will be suitable for many different images.\n\n\nResolution from settings or input image\n=======================================\n\nYou can switch between using your own resolution/aspect ratio and using the aspect ratio of the input image. \n\nWhen you use the aspect ratio of the input image, the size is always adjusted to the closest recommended SDXL resolution.\n\n\nRefiner\n=======\n\nIf you don't want to use the refiner, just set \"base_percentage\" to 100.\n\n\nClip Skip\n=========\n\nThe default value for Clip Skip is \"-2\". This will give you the same result as if you bypassed the Clip Skip node, while using the value \"-1\" will give you a different result.\n\n\nRequired nodes, models and other files\n======================================\n\nAll required nodes are available through ComfyUI Manager:\n\n* Mikey Nodes (for save and prompt)\n* rgthree's ComfyUi Nodes (for output switch and better seed control)\n* ComfyUI_IPAdapter_plus (for IP-Adapter)\n* ComfyUI's ControlNet Auxiliary Preprocessors (for Revision)\n* JPS Custom Nodes for ComfyUI\n\nSDXL Base Model:\nhttps://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/sd_xl_base_1.0_0.9vae.safetensors\n\nSDXL Refiner:\nhttps://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/blob/main/sd_xl_refiner_1.0_0.9vae.safetensors\n\nSDXL Separate VAE:\nhttps://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors\n\nUpscale Model: \nhttps://openmodeldb.info/models/4x-NMKD-Superscale\n\nClip Vision Models (required by Revision and IP-Adapter) - copy to ComfyUI\\models\\clip_vision:\nhttps://huggingface.co/comfyanonymous/clip_vision_g/blob/main/clip_vision_g.safetensors (for Revision)\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors (for SDXL models)\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors (for vit-h SDXL models)\n\nIP-Adapter Models - copy to ComfyUI\\models\\ipadapter:\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl.bin\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl_vit-h.bin\nhttps://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.bin\n\nInpainting:\nhttps://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1/blob/main/unet/diffusion_pytorch_model.fp16.safetensors\n\nControl Net:\nhttps://huggingface.co/diffusers/controlnet-zoe-depth-sdxl-1.0/blob/main/diffusion_pytorch_model.safetensors\nhttps://huggingface.co/diffusers/controlnet-canny-sdxl-1.0/blob/main/diffusion_pytorch_model.fp16.safetensors\n"
       ],
       "color": "#222",
       "bgcolor": "#000",
