@@ -24,11 +24,11 @@ __Features__
 
 __Menu Area (full screen)__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/8bd28bef-039a-43ed-b29e-42d6f81fb540)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/c9f2c823-8336-4a61-8344-4d2353937678)
 
 __Menu Area (zoomed in)__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/c7032fea-a461-418b-a258-ed5bb0fde96d)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/f15bc2a1-c5b0-4de2-9a77-7e7dba79ecfb)
 (the layout still allows access to the most important features)
 
 __Required Nodes__
