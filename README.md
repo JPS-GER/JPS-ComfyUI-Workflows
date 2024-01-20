@@ -2,7 +2,7 @@
 
 __Features__
 
-* Easy-to-use menu area that fits on a single screen (if your screen is big enough).
+* Easy-to-use menu area - keyboard shortcuts allow easy navigation
 * Turn on/off all major features to increase performance and reduce hardware requirements (unused nodes are fully muted).
 * Selectable percentage for base and refiner (recommended settings: 70-100%).
 * Optional Upscaler (2x) with easy On/Off switch.
@@ -11,25 +11,22 @@ __Features__
 * Switch between your own resolution and the resolution of the input image. If you use your own resolution, the input images will be cropped automatically if necessary.
 * Automatically crop input images to the nearest recommended SDXL resolution.
 * Choose between center, top, bottom, left and right for all cropping operations and fine tune with offset values.
-* 5 Generation Modes: TXT2IMG, IMG2IMG, ControlNet Canny, ControlNet Depth, Inpainting
+* Many ways / features to generate images: Text to Image, Unsampler, Image to Image, ControlNet Canny Edge, ControlNet MiDaS Depth, ControlNet Zoe Depth, ControlNet Open Pose, two different Inpainting techniques
 * Use the VAE included in your model or provide a separate VAE (switchable).
-* 5x Lora: Use up to 5 Lora models - the menu area offers a global and separate on/off switches and all necessary parameters for fine tuning.
+* 3x Lora: Use up to 3 Lora models - the menu area offers a global and separate on/off switches and all necessary parameters for fine tuning.
 * 4x IP Adapter: Use up to four input images - the menu area offers separate on/off switches and all necessary parameters for fine tuning.
 * Use masks, start and end values for IP Adapters.
 * Use individual weight and noise settings for each IP Adapter source image, instead of the common batch processing with only one global setting.
-* 2x Revision: Use up to two input images - the menu area offers on/off switches and all necessary parameters for fine tuning.
 * Prompt Styler: Select SAI presets, artists and movie titles to improve your basic text prompts (artist and movie list are beta and will improve).
 * FreeU_v2 settings
-* Optional image caption for previewed and/or saved images ("combined positive prompt")
 
-__Menu Area (full screen)__
+__Menu Area__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/c9f2c823-8336-4a61-8344-4d2353937678)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/94686ee7-a1fe-4bac-9e93-41f81a53d6f0)
 
-__Menu Area (zoomed in)__
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/476ceadb-e441-40cd-995c-3d39bc6ded89)
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/f15bc2a1-c5b0-4de2-9a77-7e7dba79ecfb)
-(the layout still allows access to the most important features)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/29659cae-5f73-4e32-ae5e-a7ed97759dfb)
 
 __Required Nodes__
 
