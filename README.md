@@ -30,7 +30,7 @@ __Menu Area__
 
 __Required Nodes__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/6b522960-d347-40e7-85c1-64cde643251c)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/3b245e45-3e47-4b1d-a292-4653c290bc31)
 
 __SDXL Examples__
 
