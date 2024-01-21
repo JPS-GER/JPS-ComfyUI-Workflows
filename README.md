@@ -31,7 +31,13 @@ __Menu Area__
 
 __Required Nodes__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/3b245e45-3e47-4b1d-a292-4653c290bc31)
+* Mikey Nodes (for save and prompt)
+* rgthree's ComfyUi Nodes (for output switch and better seed control)
+* ComfyUI_IPAdapter_plus (for IP-Adapter)
+* ComfyUI's ControlNet Auxiliary Preprocessors (for Control Net)
+* ComfyUI_Noise (for Unsampler)
+* BilboX's ComfyUI Custom Nodes (for Photo Prompt)
+* JPS Custom Nodes for ComfyUI
 
 __SDXL Examples__
 
