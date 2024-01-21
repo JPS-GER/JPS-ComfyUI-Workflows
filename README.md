@@ -2,7 +2,7 @@
 
 __Features__
 
-* Easy-to-use menu area - keyboard shortcuts allow easy navigation
+* Easy-to-use menu area - use keyboard shortcuts (keyboard key "1" to "4") for fast and easy menu navigation
 * Turn on/off all major features to increase performance and reduce hardware requirements (unused nodes are fully muted).
 * Selectable percentage for base and refiner (recommended settings: 70-100%).
 * Optional Upscaler (2x) with easy On/Off switch.
