@@ -22,11 +22,11 @@ __Features__
 
 __Menu Area__
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/94686ee7-a1fe-4bac-9e93-41f81a53d6f0)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/83ee3818-88ff-4f8c-a377-268abd81c560)
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/476ceadb-e441-40cd-995c-3d39bc6ded89)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/65a83f65-1328-4850-8627-7da0d19e5690)
 
-![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/29659cae-5f73-4e32-ae5e-a7ed97759dfb)
+![image](https://github.com/JPS-GER/JPS-ComfyUI-Workflows/assets/142158778/81168dbb-ee7a-46d1-821d-abd455f7cdf4)
 
 __Required Nodes__
 
