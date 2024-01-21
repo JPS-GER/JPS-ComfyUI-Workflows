@@ -17,6 +17,7 @@ __Features__
 * 4x IP Adapter: Use up to four input images - the menu area offers separate on/off switches and all necessary parameters for fine tuning.
 * Use masks, start and end values for IP Adapters.
 * Use individual weight and noise settings for each IP Adapter source image, instead of the common batch processing with only one global setting.
+* Switch between Photo Prompt and Standard Text Prompt
 * Prompt Styler: Select SAI presets, artists and movie titles to improve your basic text prompts (artist and movie list are beta and will improve).
 * FreeU_v2 settings
 
