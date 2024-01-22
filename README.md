@@ -1,4 +1,4 @@
-# JPS-ComfyUI-Workflows
+# Everything All At Once Workflow
 
 __Features__
 
